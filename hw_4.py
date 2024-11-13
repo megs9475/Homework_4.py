@@ -3,7 +3,7 @@
 # Submission Date: 11/12/2024
 # HW 04
 # Lab Section: 15
-# Sources, people worked with, help given to:
+# Sources, people worked with, help given to: Abby Ferguson
 # your
 # comments
 # here
